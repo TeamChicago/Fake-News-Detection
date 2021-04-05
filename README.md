@@ -5,6 +5,7 @@
 - Numpy
 - Pandas
 - NLTK
+- BERT
 
 # Dataset
 캐글 Fake and real news dataset
